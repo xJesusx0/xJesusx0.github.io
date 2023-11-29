@@ -18,5 +18,10 @@
     "TIENDA": "REEBOK",
     "MES": "ENERO",
     "VENTAS": 150
+  },
+  {
+    "TIENDA": "NIKE",
+    "MES": "FEBRERO",
+    "VENTAS": 150
   }
 ]

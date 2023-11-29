@@ -23,5 +23,40 @@
     "TIENDA": "NIKE",
     "MES": "FEBRERO",
     "VENTAS": 150
+  },
+  {
+    "TIENDA": "ADIDAS",
+    "MES": "FEBRERO",
+    "VENTAS": 180
+  },
+  {
+    "TIENDA": "PUMA",
+    "MES": "FEBRERO",
+    "VENTAS": 220
+  },
+  {
+    "TIENDA": "REEBOK",
+    "MES": "FEBRERO",
+    "VENTAS": 120
+  },
+  {
+    "TIENDA": "NIKE",
+    "MES": "MARZO",
+    "VENTAS": 200
+  },
+  {
+    "TIENDA": "ADIDAS",
+    "MES": "MARZO",
+    "VENTAS": 210
+  },
+  {
+    "TIENDA": "PUMA",
+    "MES": "MARZO",
+    "VENTAS": 180
+  },
+  {
+    "TIENDA": "REEBOK",
+    "MES": "MARZO",
+    "VENTAS": 130
   }
 ]

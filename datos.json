@@ -1,0 +1,22 @@
+[
+  {
+    "TIENDA": "NIKE",
+    "MES": "ENERO",
+    "VENTAS": 300
+  },
+  {
+    "TIENDA": "ADIDAS",
+    "MES": "ENERO",
+    "VENTAS": 250
+  },
+  {
+    "TIENDA": "PUMA",
+    "MES": "ENERO",
+    "VENTAS": 200
+  },
+  {
+    "TIENDA": "REEBOK",
+    "MES": "ENERO",
+    "VENTAS": 150
+  }
+]
